@@ -1,5 +1,5 @@
 let i = 0;
-let x = Math.random() * (100 - 45) + 45;
+let x = Math.random() * (4 - 3) + 3;
 let z = Math.random() * (25 - 15) + 15;
 var w = window.innerWidth;
 
